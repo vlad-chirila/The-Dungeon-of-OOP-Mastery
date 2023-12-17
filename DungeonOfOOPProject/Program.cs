@@ -1,7 +1,7 @@
 ﻿internal class Program
 {
-    static int playerX = 0;
-    static int playerY = 0;
+    static int playerX = 40;
+    static int playerY = 25;
     static int consoleWidth = 80;
     static int consoleHeight = 25;
 
