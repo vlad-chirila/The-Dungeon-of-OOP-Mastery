@@ -1,6 +1,4 @@
-﻿using System.Threading;
-
-namespace DungeonOfOOPProject.Entities
+﻿namespace DungeonOfOOPProject.Entities
 {
     public interface IBattleStrategy
     {
